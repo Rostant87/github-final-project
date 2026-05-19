@@ -1,31 +1,36 @@
 # Code of Conduct
 
-## Notre Engagement
-Nous nous engageons à faire de la participation à notre projet 
-une expérience respectueuse et inclusive pour tous.
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation 
+in our community a harassment-free experience for everyone, regardless 
+of age, body size, visible or invisible disability, ethnicity, sex 
+characteristics, gender identity and expression, level of experience, 
+education, socio-economic status, nationality, personal appearance, 
+race, caste, color, religion, or sexual identity and orientation.
 
-## Nos Normes
-Exemples de comportements qui contribuent à un environnement positif :
-- Faire preuve d'empathie et de bienveillance
-- Respecter les opinions et expériences différentes
-- Accepter les critiques constructives
-- Se concentrer sur ce qui est meilleur pour la communauté
+## Our Standards
+Examples of behavior that contributes to a positive environment:
+- Demonstrating empathy and kindness toward other people
+- Being respectful of differing opinions, viewpoints, and experiences
+- Giving and gracefully accepting constructive feedback
+- Accepting responsibility and apologizing to those affected by our mistakes
 
-## Responsabilités d'Application
-Les responsables du projet sont chargés de clarifier et d'appliquer 
-nos normes de comportement acceptables.
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our 
+standards of acceptable behavior.
 
-## Portée
-Ce code de conduite s'applique dans tous les espaces du projet.
+## Scope
+This Code of Conduct applies within all community spaces.
 
-## Application
-Les cas de comportements abusifs peuvent être signalés aux 
-responsables du projet.
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior 
+may be reported to the community leaders responsible for enforcement.
 
-## Lignes Directrices d'Application
-Les responsables suivront ces lignes directrices pour déterminer 
-les conséquences de toute action en violation de ce code.
+## Enforcement Guidelines
+Community leaders will follow these guidelines in determining the 
+consequences for any action they deem in violation of this Code of Conduct.
 
 ## Attribution
-Ce Code de Conduite est adapté du Contributor Covenant, version 2.1,
-disponible sur https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+This Code of Conduct is adapted from the Contributor Covenant, 
+version 2.1, available at 
+https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
