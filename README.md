@@ -14,5 +14,8 @@ The script takes the following inputs:
 - **Rate of Interest** : The interest rate applied
 - **Time Period** : The duration of the calculation
 
+## Output
+simple interest = p*t*r
+
 ## License
 This project is licensed under the Apache License 2.0.
